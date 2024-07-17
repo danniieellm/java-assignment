@@ -1,4 +1,4 @@
-DivisibilityTest
+u
 import java.util.Scanner; // import the scanner class for reding user input
 
 public class DivisibilityTest {
